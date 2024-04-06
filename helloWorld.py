@@ -1,0 +1,1 @@
+print("Git is awful, awesome is overused")
